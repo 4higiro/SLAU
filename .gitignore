@@ -1,0 +1,6 @@
+.vs/
+x64/
+extlibs/
+opencv/
+SLAU.*
+data/dataset/
